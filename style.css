@@ -1,0 +1,110 @@
+.topnav {
+    overflow: hidden;
+}
+
+/* Style for the links inside the navigation bar */
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2; 
+    text-align: center;
+    padding: 14px 30px;
+    text-decoration: none;
+}
+
+
+.topnav a:hover {
+    color: rgb(226, 13, 13); 
+}
+
+#mail{
+    padding-right:800px ;
+    
+}
+
+.navfont{
+    font-size: 20px;
+    font-family: "Playfair Display", serif;
+}
+
+    .portfolio {
+        background-image: url('photo.png');
+        background-size: cover; /* Ensure the image covers the entire background */
+        background-position: center; /* Center the background image */
+        color: #fff; /* Text color on top of the background */
+        padding: 50px 0; /* Padding above and below the content */
+}
+
+.job{
+    font-family: "Playfair Display", serif;
+}
+
+
+.format {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+}
+
+.left-column, .right-column {
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+}
+
+.left-column{
+   margin-bottom: 100px ;
+}
+
+
+
+
+.skills {
+    width: 100%;
+    text-align: center;
+    background-color: #eef0f2;
+}
+
+.skill {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+
+.html{
+    background-color: #eec643;
+    width: 450px;
+    height: 20px;
+}
+
+.css{
+    background-color: #eec643;
+    width: 240px;
+    height: 20px;
+}
+
+.WordPress{
+    background-color: #eec643;
+    width: 510px;
+    height: 20px;
+}
+
+.Photoshop{
+    background-color: #eec643;
+    width: 240px;
+    height: 20px;
+}
+
+.seo{
+    background-color: #eec643;
+    width: 600px;
+    height: 20px;
+}
+
+.Writing{
+    background-color: #eec643;
+    width: 420px;
+    height: 20px;
+}
